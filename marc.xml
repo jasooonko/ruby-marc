@@ -1,0 +1,4 @@
+<?xml version='1.0'?>
+<collection xmlns='http://www.loc.gov/MARC21/slim' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd'>
+<record><leader>00054 Z   2200037   4500</leader><datafield ind1='0' ind2=' ' tag='245'><subfield code='a'>hello world</subfield></datafield></record>
+</collection>
